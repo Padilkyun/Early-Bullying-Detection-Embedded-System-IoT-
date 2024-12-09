@@ -1,0 +1,5 @@
+- Adafruit_GFX : Install via Library Manager (Manage Libraries)
+- Adafruit_SSD1306 : Install via Library Manager (Manage Libraries)
+- Arduino_JSON : Install via Library Manager (Manage Libraries)
+- ESPAsyncWebServer : https://github.com/me-no-dev/ESPAsyncWebServer
+- AsyncTCP : https://github.com/me-no-dev/AsyncTCP
